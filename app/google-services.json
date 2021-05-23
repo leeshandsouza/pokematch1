@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620567406355",
+    "project_id": "pokematch-6708f",
+    "storage_bucket": "pokematch-6708f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620567406355:android:3048510a6916047059dce6",
+        "android_client_info": {
+          "package_name": "com.gameguildstudios.pokematch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620567406355-d57q96v766gq9de7oof4f5f2njqkvomd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKN6XB1OCZIeglbArZKk_kouCmEXN_czQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620567406355-d57q96v766gq9de7oof4f5f2njqkvomd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
