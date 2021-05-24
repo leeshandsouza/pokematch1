@@ -88,7 +88,10 @@ public class MainActivity3 extends AppCompatActivity {
         startActivity(i);
 
     }
+    public void onBackPressed()
+        {
 
+    }
     public void openaboutus(MenuItem item) {
         Intent i=new Intent(getApplicationContext(),Aboutus.class);
         startActivity(i);
